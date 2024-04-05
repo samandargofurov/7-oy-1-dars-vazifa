@@ -54,7 +54,6 @@ function App() {
         {/* services details */}
 
         <div className='flex justify-between'>
-            {/* card 1 */}
             
             <div className='mb-10'>
               <div className="w-80 h-80 bg-zinc-800 px-8 py-5">
@@ -67,8 +66,6 @@ function App() {
               <div className='w-80 h-1.5 bg-green-600'></div>
             </div>
 
-            {/* card 2 */}
-
             <div className='mb-10'>
               <div className="w-80 h-80 bg-zinc-800 px-8 py-5">
                 <img className='mt-7' src={icon2} alt="" />
@@ -79,8 +76,6 @@ function App() {
               </div>
               <div className='w-80 h-1.5 bg-green-600'></div>
             </div>
-
-            {/* card 3 */}
 
             <div className='mb-10'>
               <div className="w-80 h-80 bg-zinc-800 px-8 py-5">
